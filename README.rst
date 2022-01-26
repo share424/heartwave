@@ -24,6 +24,19 @@ Usage
 
     heartwave [optional filename, URL or camera ID]
 
+When the window is open, wait until the window displays your webcam. 
+If you have more than 1 webcam, you can specify them in the 
+`Source -> Webcam` menu or in the command above. 
+
+You can also use a video file or video streaming URL as the input by 
+specifying them in the command above or via the `Source` menu.
+
+Example Output
+--------------
+
+.. image:: ./image/heartwave.png
+
+
 Links
 -----
 
