@@ -15,7 +15,7 @@ Installation
 
 ::
 
-    pip3 install heartwave
+    pip install setup.py
 
 Usage
 -----

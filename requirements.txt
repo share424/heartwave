@@ -3,3 +3,4 @@ PyQtChart
 numpy
 scipy
 opencv-contrib-python
+eventkit
