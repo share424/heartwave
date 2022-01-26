@@ -39,5 +39,5 @@ setup(
     package_data={'heartwave': ['data/*.xml']},
     install_requires=[
         'PyQt5', 'PyQtChart', 'numpy', 'scipy',
-        'opencv-contrib-python'],
+        'opencv-contrib-python', 'eventkit'],
 )
